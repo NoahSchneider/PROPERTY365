@@ -1,0 +1,150 @@
+23#1st Street#Aldara Park#1#1 
+12#Cosmos Avenue#Aldara Park#2#1
+23#Swanepoel Avenue#Aldara Park#3#2
+7#Brentford Road#Aldara Park#4#1
+65#Garrick Road#Aldara Park#5#1
+3#Woodley Avenue#Aldara Park#6#3
+7#Caroline Avenue#Aldara Park#7#4
+23 Edgeworth Lane Aldara Park 8 3
+18#Colinton Road#Blairgowrie#7#2
+2#Coborn Road#Blairgowrie#6#3
+49#Belvicar Road#Blairgowrie#5#3
+3#Pentlands Road#Blairgowrie#4#2
+105#Standard Drive#Blairgowrie#3#1
+98#Barkston Drive#Blairgowrie#3#1
+208#Barkston Drive#Blairgowrie#2#2
+5#Valley Road#Bordeaux#1#1
+16#Orchard Avenue#Bordeaux#2#1
+45#Paris Avenue#Bordeaux#3#2 
+4#Adele Road#Bordeaux#4#2
+76#Maxwell Avenue#Bordeaux#5#2  
+5#Ryder Avenue#Bordeaux#6#1
+49#Jean Avenue#Bordeaux#7#2
+34#Janet Avenue#Bordeaux#8#3  
+3#Darley Avenue#Boskruin#7#4
+8#Kelley Avenue#Boskruin#6#3
+56#Nimmerstat Avenue#Boskruin#5#2
+29#Swazi Road#Boskruin#4#1
+21#Panther Road#Boskruin#3#1
+67#Kolgans Street#Boskruin#2#1
+98#Houtkapper Avenue#Boskruin#1#2
+2#Sylvan Road#Boskruin#2#2
+4#Hawkin Avenue#Bromhof#3#2
+26#Tin Road Bromhof#4#2
+43#Spoonbill Street#Bromhof#5#3
+7#Dwars Street#Bromhof#6#4
+56#Parrot Road#Bromhof#7#4
+36#Crow Road#Bromhof#8#5
+9#Ostrich Street#Bromhof#7#3
+5#Nagtegaal Lane#Bromhof#6#3
+72#Judges Avenue#Cresta#5#2
+45#Gillard Drive#Cresta#4#3
+51#Minerva Road#Cresta#3#1
+38#Siebolds Avenue#Cresta#2#2
+234#Bernhards Street#Cresta#1#2
+64#Acacia Street#Cresta#2#2
+38#Ross Road#Darrenwood#3#2
+84#Edgeworth Crescent#Darrenwood#4#3
+45#Cheyne Street#Darrenwood#5#3  
+23#Blaine Road#Darrenwood#6#4
+58#Durham Road#Darrenwood#7#4  
+34#Elza Road#Darrenwood#8#4 
+45#Albito Street#Darrenwood#7#4
+14#Lee Road#Darrenwood#6#3  
+65#Sophia#Street#Fairlands#5#3
+29#Casper Road#Fairlands#4#2
+34#Smit Lane#Fairlands#3#2 
+18#Market Street#Fairlands#2#1  
+23#Woolson Road#Fairlands#1#2
+19#Helvey Road#Fairlands#2#2
+34#Albert Road#Fairlands#3#1
+12#Tennis Road#Fairlands#4#2
+34#York Avenue#Ferndale#5#2
+2#Vale Avenue#Ferndale#6#1
+34#West Road#Ferndale#7#3 
+8#Eton Road#Ferndale#8#5
+35#Cheese Street#Ferndale#6#2
+21#Langsholm Avenue#Ferndale#2#1   
+13#Bird Road#Ferndale#3#1   
+1#Goose Road#Ferndale#5#3
+10#School Street#Jukskei Park#7#4
+56#Market Street#Jukskei Park#8#3 
+101#Rolvery Road#Jukskei Park#1#1  
+34#Verity Road#Jukskei Park#1#1 
+5#Jameston Street#Jukskei Park#2#1 
+67#Jude Road#Jukskei Park#3#1 
+34#Regal Street#Jukskei Park#4#2 
+45#Kook Street#Jukskei Park#5#2 
+26#Grey Street#Kensington 'B'#6#4
+71#North Avenue#Kensington 'B'#7#3 
+51#Adderly Road#Kensington 'B'#8#5  
+40#Milner Road#Kensington 'B'#6#2 
+4#Victoria Street#Kensington 'B'#5#3 
+2#Willma Road#Kensington 'B'#4#1 
+19#Halor Avenue#Kensington 'B'#3#1 
+3#Spedila Road#Kensington 'B'#2#2
+23#Craig Avenue#Malanshof#1#1
+28#Wanda Street#Malanshof#2#2
+67#Quail Avenue#Malanshof#3#2
+5#Food Road#Malanshof#4#2
+95#Lekker Street#Malanshof#5#3
+56#Jakkels Avenue#Malanshof#6#4
+30#Tudor Road#Malanshof#7#5
+34#Robin Street#Malanshof#8#3
+41#Derby Drive#Northriding#7#4 
+52#Blandford Road#Northriding#6#3 
+29#5th Street#Northriding#5#2 
+73#Hodor Road#Northriding#4#4
+1#Long Street#Northriding#3#2 
+2#Short Street#Northriding#2#2
+7#Midas Street#Northriding#1#2
+8#Gupta Road#Northriding#2#2 
+5#3rd Road#Northwold#3#1
+38#Iris Crescent#Northwold#4#1
+5#Fat Avenue#Northwold#5#3
+13#Thin Avenue#Northwold#6#2 
+64#Cook Street#Northwold#7#4
+4#Adar Road#Northwold#8#6
+5#Mickey Street#Northwold#7#3
+76#Boon Road#Northwold#6#4
+8#Jacaranda Avenue#Olivedale#5#2
+13#Amsterdam Drive#Olivedale#4#1
+1#Roosevelt Road#Olivedale#3#3 
+6#Denis Road#Olivedale#2#1
+98#Goolash Street#Olivedale#1#1
+90#China Street#Olivedale#2#1
+6#Stompneus#Street#Olivedale#3#2
+81#Vorna Road#Olivedale#4#2
+18#Cedar Street#Randpark Ridge#5#2
+27#Cycad Street#Randpark Ridge#6#3
+7#Xiao-Xiao Road#Randpark Ridge#7#2
+69#Copulat Road#Randpark Ridge#8#3
+45#Avamys Street#Randpark Ridge#7#5 
+3#Drobbel Road#Randpark Ridge#6#4  
+8#Woods Street#Randpark Ridge#5#3
+57#Nobile Road#Randpark Ridge#4#2
+7#Gemsbok Avenue#Robin Hills#3#2
+34#Winston Avenue#Robin Hills#2#1 
+666#Beast Street#Robin Hills#1#1
+91#Lord Avenue#Robin Hills#2#1
+50#Vorna Street#Robin Hills#3#2 
+30#Docile Road#Robin Hills#4#3
+70#Late Street#Robin Hills#5#4
+21#Marlin Street#Robin Hills#6#2
+64#Deneys Road#Roosevelt Park#7#4
+65#Mendelsson Avenue#Roosevelt Park#8#5
+5#Morgan Street#Roosevelt Park#7#3
+34#Spy Street#Roosevelt Park#6#2
+83#Dog Street#Roosevelt Park#5#2 
+2#Black Street#Roosevelt Park#4#2
+56#Lester Street#Roosevelt Park#3#1 
+7#Flash Street#Roosevelt Park#2#1
+9#Charter Road#Windsor East#1#1
+56#Kings Avenue#Windsor East#2#1
+39#Princess Street#Windsor East#3#1 
+52#Queens Street#Windsor East#4#2
+62#Beef Street#Windsor East#5#3
+49#Squire Road#Windsor East#6#4
+87#Lord Avenue#Windsor East#7#5
+38#8th Road#Windsor East#8#2
+ 
